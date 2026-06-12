@@ -1,0 +1,14 @@
+C:\OOP\XuLyNgoaiLe\obj\Debug\net9.0\XuLyNgoaiLe.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\XuLyNgoaiLe\obj\Debug\net9.0\XuLyNgoaiLe.AssemblyInfoInputs.cache
+C:\OOP\XuLyNgoaiLe\obj\Debug\net9.0\XuLyNgoaiLe.AssemblyInfo.cs
+C:\OOP\XuLyNgoaiLe\obj\Debug\net9.0\XuLyNgoaiLe.csproj.CoreCompileInputs.cache
+C:\OOP\XuLyNgoaiLe\bin\Debug\net9.0\XuLyNgoaiLe.exe
+C:\OOP\XuLyNgoaiLe\bin\Debug\net9.0\XuLyNgoaiLe.deps.json
+C:\OOP\XuLyNgoaiLe\bin\Debug\net9.0\XuLyNgoaiLe.runtimeconfig.json
+C:\OOP\XuLyNgoaiLe\bin\Debug\net9.0\XuLyNgoaiLe.dll
+C:\OOP\XuLyNgoaiLe\bin\Debug\net9.0\XuLyNgoaiLe.pdb
+C:\OOP\XuLyNgoaiLe\obj\Debug\net9.0\XuLyNgoaiLe.dll
+C:\OOP\XuLyNgoaiLe\obj\Debug\net9.0\refint\XuLyNgoaiLe.dll
+C:\OOP\XuLyNgoaiLe\obj\Debug\net9.0\XuLyNgoaiLe.pdb
+C:\OOP\XuLyNgoaiLe\obj\Debug\net9.0\XuLyNgoaiLe.genruntimeconfig.cache
+C:\OOP\XuLyNgoaiLe\obj\Debug\net9.0\ref\XuLyNgoaiLe.dll

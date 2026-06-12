@@ -1,0 +1,14 @@
+D:\THIGK\ToanDX\bin\Debug\net8.0\ToanDX.exe
+D:\THIGK\ToanDX\bin\Debug\net8.0\ToanDX.deps.json
+D:\THIGK\ToanDX\bin\Debug\net8.0\ToanDX.runtimeconfig.json
+D:\THIGK\ToanDX\bin\Debug\net8.0\ToanDX.dll
+D:\THIGK\ToanDX\bin\Debug\net8.0\ToanDX.pdb
+D:\THIGK\ToanDX\obj\Debug\net8.0\ToanDX.GeneratedMSBuildEditorConfig.editorconfig
+D:\THIGK\ToanDX\obj\Debug\net8.0\ToanDX.AssemblyInfoInputs.cache
+D:\THIGK\ToanDX\obj\Debug\net8.0\ToanDX.AssemblyInfo.cs
+D:\THIGK\ToanDX\obj\Debug\net8.0\ToanDX.csproj.CoreCompileInputs.cache
+D:\THIGK\ToanDX\obj\Debug\net8.0\ToanDX.dll
+D:\THIGK\ToanDX\obj\Debug\net8.0\refint\ToanDX.dll
+D:\THIGK\ToanDX\obj\Debug\net8.0\ToanDX.pdb
+D:\THIGK\ToanDX\obj\Debug\net8.0\ToanDX.genruntimeconfig.cache
+D:\THIGK\ToanDX\obj\Debug\net8.0\ref\ToanDX.dll

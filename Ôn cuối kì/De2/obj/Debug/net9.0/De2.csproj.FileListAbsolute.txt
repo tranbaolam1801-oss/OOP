@@ -1,0 +1,14 @@
+C:\C#\Ôn cuối kì\De2\obj\Debug\net9.0\De2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ôn cuối kì\De2\obj\Debug\net9.0\De2.AssemblyInfoInputs.cache
+C:\C#\Ôn cuối kì\De2\obj\Debug\net9.0\De2.AssemblyInfo.cs
+C:\C#\Ôn cuối kì\De2\obj\Debug\net9.0\De2.csproj.CoreCompileInputs.cache
+C:\C#\Ôn cuối kì\De2\bin\Debug\net9.0\De2.exe
+C:\C#\Ôn cuối kì\De2\bin\Debug\net9.0\De2.deps.json
+C:\C#\Ôn cuối kì\De2\bin\Debug\net9.0\De2.runtimeconfig.json
+C:\C#\Ôn cuối kì\De2\bin\Debug\net9.0\De2.dll
+C:\C#\Ôn cuối kì\De2\bin\Debug\net9.0\De2.pdb
+C:\C#\Ôn cuối kì\De2\obj\Debug\net9.0\De2.dll
+C:\C#\Ôn cuối kì\De2\obj\Debug\net9.0\refint\De2.dll
+C:\C#\Ôn cuối kì\De2\obj\Debug\net9.0\De2.pdb
+C:\C#\Ôn cuối kì\De2\obj\Debug\net9.0\De2.genruntimeconfig.cache
+C:\C#\Ôn cuối kì\De2\obj\Debug\net9.0\ref\De2.dll

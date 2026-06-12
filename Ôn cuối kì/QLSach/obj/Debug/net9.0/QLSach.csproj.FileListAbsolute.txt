@@ -1,0 +1,14 @@
+C:\C#\Ôn cuối kì\QLSach\bin\Debug\net9.0\QLSach.exe
+C:\C#\Ôn cuối kì\QLSach\bin\Debug\net9.0\QLSach.deps.json
+C:\C#\Ôn cuối kì\QLSach\bin\Debug\net9.0\QLSach.runtimeconfig.json
+C:\C#\Ôn cuối kì\QLSach\bin\Debug\net9.0\QLSach.dll
+C:\C#\Ôn cuối kì\QLSach\bin\Debug\net9.0\QLSach.pdb
+C:\C#\Ôn cuối kì\QLSach\obj\Debug\net9.0\QLSach.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ôn cuối kì\QLSach\obj\Debug\net9.0\QLSach.AssemblyInfoInputs.cache
+C:\C#\Ôn cuối kì\QLSach\obj\Debug\net9.0\QLSach.AssemblyInfo.cs
+C:\C#\Ôn cuối kì\QLSach\obj\Debug\net9.0\QLSach.csproj.CoreCompileInputs.cache
+C:\C#\Ôn cuối kì\QLSach\obj\Debug\net9.0\QLSach.dll
+C:\C#\Ôn cuối kì\QLSach\obj\Debug\net9.0\refint\QLSach.dll
+C:\C#\Ôn cuối kì\QLSach\obj\Debug\net9.0\QLSach.pdb
+C:\C#\Ôn cuối kì\QLSach\obj\Debug\net9.0\QLSach.genruntimeconfig.cache
+C:\C#\Ôn cuối kì\QLSach\obj\Debug\net9.0\ref\QLSach.dll

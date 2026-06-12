@@ -1,0 +1,14 @@
+D:\OOP\LapTrinhHDT\BT6\bin\Debug\net8.0\BT6.exe
+D:\OOP\LapTrinhHDT\BT6\bin\Debug\net8.0\BT6.deps.json
+D:\OOP\LapTrinhHDT\BT6\bin\Debug\net8.0\BT6.runtimeconfig.json
+D:\OOP\LapTrinhHDT\BT6\bin\Debug\net8.0\BT6.dll
+D:\OOP\LapTrinhHDT\BT6\bin\Debug\net8.0\BT6.pdb
+D:\OOP\LapTrinhHDT\BT6\obj\Debug\net8.0\BT6.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\LapTrinhHDT\BT6\obj\Debug\net8.0\BT6.AssemblyInfoInputs.cache
+D:\OOP\LapTrinhHDT\BT6\obj\Debug\net8.0\BT6.AssemblyInfo.cs
+D:\OOP\LapTrinhHDT\BT6\obj\Debug\net8.0\BT6.csproj.CoreCompileInputs.cache
+D:\OOP\LapTrinhHDT\BT6\obj\Debug\net8.0\BT6.dll
+D:\OOP\LapTrinhHDT\BT6\obj\Debug\net8.0\refint\BT6.dll
+D:\OOP\LapTrinhHDT\BT6\obj\Debug\net8.0\BT6.pdb
+D:\OOP\LapTrinhHDT\BT6\obj\Debug\net8.0\BT6.genruntimeconfig.cache
+D:\OOP\LapTrinhHDT\BT6\obj\Debug\net8.0\ref\BT6.dll

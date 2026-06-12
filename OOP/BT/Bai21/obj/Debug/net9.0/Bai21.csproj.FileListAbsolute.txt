@@ -1,0 +1,14 @@
+C:\OOP\BT\Bai21\obj\Debug\net9.0\Bai21.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\BT\Bai21\obj\Debug\net9.0\Bai21.AssemblyInfoInputs.cache
+C:\OOP\BT\Bai21\obj\Debug\net9.0\Bai21.AssemblyInfo.cs
+C:\OOP\BT\Bai21\obj\Debug\net9.0\Bai21.csproj.CoreCompileInputs.cache
+C:\OOP\BT\Bai21\bin\Debug\net9.0\Bai21.exe
+C:\OOP\BT\Bai21\bin\Debug\net9.0\Bai21.deps.json
+C:\OOP\BT\Bai21\bin\Debug\net9.0\Bai21.runtimeconfig.json
+C:\OOP\BT\Bai21\bin\Debug\net9.0\Bai21.dll
+C:\OOP\BT\Bai21\bin\Debug\net9.0\Bai21.pdb
+C:\OOP\BT\Bai21\obj\Debug\net9.0\Bai21.dll
+C:\OOP\BT\Bai21\obj\Debug\net9.0\refint\Bai21.dll
+C:\OOP\BT\Bai21\obj\Debug\net9.0\Bai21.pdb
+C:\OOP\BT\Bai21\obj\Debug\net9.0\Bai21.genruntimeconfig.cache
+C:\OOP\BT\Bai21\obj\Debug\net9.0\ref\Bai21.dll

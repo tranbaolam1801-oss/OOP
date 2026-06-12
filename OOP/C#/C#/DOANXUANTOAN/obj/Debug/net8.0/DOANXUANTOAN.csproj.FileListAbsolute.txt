@@ -1,0 +1,14 @@
+D:\C#\DOANXUANTOAN\bin\Debug\net8.0\DOANXUANTOAN.exe
+D:\C#\DOANXUANTOAN\bin\Debug\net8.0\DOANXUANTOAN.deps.json
+D:\C#\DOANXUANTOAN\bin\Debug\net8.0\DOANXUANTOAN.runtimeconfig.json
+D:\C#\DOANXUANTOAN\bin\Debug\net8.0\DOANXUANTOAN.dll
+D:\C#\DOANXUANTOAN\bin\Debug\net8.0\DOANXUANTOAN.pdb
+D:\C#\DOANXUANTOAN\obj\Debug\net8.0\DOANXUANTOAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DOANXUANTOAN\obj\Debug\net8.0\DOANXUANTOAN.AssemblyInfoInputs.cache
+D:\C#\DOANXUANTOAN\obj\Debug\net8.0\DOANXUANTOAN.AssemblyInfo.cs
+D:\C#\DOANXUANTOAN\obj\Debug\net8.0\DOANXUANTOAN.csproj.CoreCompileInputs.cache
+D:\C#\DOANXUANTOAN\obj\Debug\net8.0\DOANXUANTOAN.dll
+D:\C#\DOANXUANTOAN\obj\Debug\net8.0\refint\DOANXUANTOAN.dll
+D:\C#\DOANXUANTOAN\obj\Debug\net8.0\DOANXUANTOAN.pdb
+D:\C#\DOANXUANTOAN\obj\Debug\net8.0\DOANXUANTOAN.genruntimeconfig.cache
+D:\C#\DOANXUANTOAN\obj\Debug\net8.0\ref\DOANXUANTOAN.dll

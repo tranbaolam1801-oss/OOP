@@ -1,0 +1,14 @@
+C:\C#\Chương 4\Hoc\bin\Debug\net9.0\Hoc.exe
+C:\C#\Chương 4\Hoc\bin\Debug\net9.0\Hoc.deps.json
+C:\C#\Chương 4\Hoc\bin\Debug\net9.0\Hoc.runtimeconfig.json
+C:\C#\Chương 4\Hoc\bin\Debug\net9.0\Hoc.dll
+C:\C#\Chương 4\Hoc\bin\Debug\net9.0\Hoc.pdb
+C:\C#\Chương 4\Hoc\obj\Debug\net9.0\Hoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Chương 4\Hoc\obj\Debug\net9.0\Hoc.AssemblyInfoInputs.cache
+C:\C#\Chương 4\Hoc\obj\Debug\net9.0\Hoc.AssemblyInfo.cs
+C:\C#\Chương 4\Hoc\obj\Debug\net9.0\Hoc.csproj.CoreCompileInputs.cache
+C:\C#\Chương 4\Hoc\obj\Debug\net9.0\Hoc.dll
+C:\C#\Chương 4\Hoc\obj\Debug\net9.0\refint\Hoc.dll
+C:\C#\Chương 4\Hoc\obj\Debug\net9.0\Hoc.pdb
+C:\C#\Chương 4\Hoc\obj\Debug\net9.0\Hoc.genruntimeconfig.cache
+C:\C#\Chương 4\Hoc\obj\Debug\net9.0\ref\Hoc.dll

@@ -1,0 +1,14 @@
+C:\OOP\BT\Bai30\obj\Debug\net9.0\Bai30.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\BT\Bai30\obj\Debug\net9.0\Bai30.AssemblyInfoInputs.cache
+C:\OOP\BT\Bai30\obj\Debug\net9.0\Bai30.AssemblyInfo.cs
+C:\OOP\BT\Bai30\obj\Debug\net9.0\Bai30.csproj.CoreCompileInputs.cache
+C:\OOP\BT\Bai30\bin\Debug\net9.0\Bai30.exe
+C:\OOP\BT\Bai30\bin\Debug\net9.0\Bai30.deps.json
+C:\OOP\BT\Bai30\bin\Debug\net9.0\Bai30.runtimeconfig.json
+C:\OOP\BT\Bai30\bin\Debug\net9.0\Bai30.dll
+C:\OOP\BT\Bai30\bin\Debug\net9.0\Bai30.pdb
+C:\OOP\BT\Bai30\obj\Debug\net9.0\Bai30.dll
+C:\OOP\BT\Bai30\obj\Debug\net9.0\refint\Bai30.dll
+C:\OOP\BT\Bai30\obj\Debug\net9.0\Bai30.pdb
+C:\OOP\BT\Bai30\obj\Debug\net9.0\Bai30.genruntimeconfig.cache
+C:\OOP\BT\Bai30\obj\Debug\net9.0\ref\Bai30.dll

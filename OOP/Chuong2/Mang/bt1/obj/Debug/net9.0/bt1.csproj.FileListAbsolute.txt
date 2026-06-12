@@ -1,0 +1,14 @@
+C:\OOP\Mang\bt1\obj\Debug\net9.0\bt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\Mang\bt1\obj\Debug\net9.0\bt1.AssemblyInfoInputs.cache
+C:\OOP\Mang\bt1\obj\Debug\net9.0\bt1.AssemblyInfo.cs
+C:\OOP\Mang\bt1\obj\Debug\net9.0\bt1.csproj.CoreCompileInputs.cache
+C:\OOP\Mang\bt1\bin\Debug\net9.0\bt1.exe
+C:\OOP\Mang\bt1\bin\Debug\net9.0\bt1.deps.json
+C:\OOP\Mang\bt1\bin\Debug\net9.0\bt1.runtimeconfig.json
+C:\OOP\Mang\bt1\bin\Debug\net9.0\bt1.dll
+C:\OOP\Mang\bt1\bin\Debug\net9.0\bt1.pdb
+C:\OOP\Mang\bt1\obj\Debug\net9.0\bt1.dll
+C:\OOP\Mang\bt1\obj\Debug\net9.0\refint\bt1.dll
+C:\OOP\Mang\bt1\obj\Debug\net9.0\bt1.pdb
+C:\OOP\Mang\bt1\obj\Debug\net9.0\bt1.genruntimeconfig.cache
+C:\OOP\Mang\bt1\obj\Debug\net9.0\ref\bt1.dll

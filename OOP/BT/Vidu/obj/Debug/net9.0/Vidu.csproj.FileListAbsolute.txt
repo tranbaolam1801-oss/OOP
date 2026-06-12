@@ -1,0 +1,14 @@
+C:\OOP\BT\Vidu\bin\Debug\net9.0\Vidu.exe
+C:\OOP\BT\Vidu\bin\Debug\net9.0\Vidu.deps.json
+C:\OOP\BT\Vidu\bin\Debug\net9.0\Vidu.runtimeconfig.json
+C:\OOP\BT\Vidu\bin\Debug\net9.0\Vidu.dll
+C:\OOP\BT\Vidu\bin\Debug\net9.0\Vidu.pdb
+C:\OOP\BT\Vidu\obj\Debug\net9.0\Vidu.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\BT\Vidu\obj\Debug\net9.0\Vidu.AssemblyInfoInputs.cache
+C:\OOP\BT\Vidu\obj\Debug\net9.0\Vidu.AssemblyInfo.cs
+C:\OOP\BT\Vidu\obj\Debug\net9.0\Vidu.csproj.CoreCompileInputs.cache
+C:\OOP\BT\Vidu\obj\Debug\net9.0\Vidu.dll
+C:\OOP\BT\Vidu\obj\Debug\net9.0\refint\Vidu.dll
+C:\OOP\BT\Vidu\obj\Debug\net9.0\Vidu.pdb
+C:\OOP\BT\Vidu\obj\Debug\net9.0\Vidu.genruntimeconfig.cache
+C:\OOP\BT\Vidu\obj\Debug\net9.0\ref\Vidu.dll

@@ -1,0 +1,14 @@
+D:\C#\CK4\bin\Debug\net8.0\CK4.exe
+D:\C#\CK4\bin\Debug\net8.0\CK4.deps.json
+D:\C#\CK4\bin\Debug\net8.0\CK4.runtimeconfig.json
+D:\C#\CK4\bin\Debug\net8.0\CK4.dll
+D:\C#\CK4\bin\Debug\net8.0\CK4.pdb
+D:\C#\CK4\obj\Debug\net8.0\CK4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CK4\obj\Debug\net8.0\CK4.AssemblyInfoInputs.cache
+D:\C#\CK4\obj\Debug\net8.0\CK4.AssemblyInfo.cs
+D:\C#\CK4\obj\Debug\net8.0\CK4.csproj.CoreCompileInputs.cache
+D:\C#\CK4\obj\Debug\net8.0\CK4.dll
+D:\C#\CK4\obj\Debug\net8.0\refint\CK4.dll
+D:\C#\CK4\obj\Debug\net8.0\CK4.pdb
+D:\C#\CK4\obj\Debug\net8.0\CK4.genruntimeconfig.cache
+D:\C#\CK4\obj\Debug\net8.0\ref\CK4.dll

@@ -1,0 +1,14 @@
+D:\OOP\LapTrinhHDT\obj\Debug\net8.0\LapTrinhHDT.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\LapTrinhHDT\obj\Debug\net8.0\LapTrinhHDT.AssemblyInfoInputs.cache
+D:\OOP\LapTrinhHDT\obj\Debug\net8.0\LapTrinhHDT.AssemblyInfo.cs
+D:\OOP\LapTrinhHDT\obj\Debug\net8.0\LapTrinhHDT.csproj.CoreCompileInputs.cache
+D:\OOP\LapTrinhHDT\bin\Debug\net8.0\LapTrinhHDT.exe
+D:\OOP\LapTrinhHDT\bin\Debug\net8.0\LapTrinhHDT.deps.json
+D:\OOP\LapTrinhHDT\bin\Debug\net8.0\LapTrinhHDT.runtimeconfig.json
+D:\OOP\LapTrinhHDT\bin\Debug\net8.0\LapTrinhHDT.dll
+D:\OOP\LapTrinhHDT\bin\Debug\net8.0\LapTrinhHDT.pdb
+D:\OOP\LapTrinhHDT\obj\Debug\net8.0\LapTrinhHDT.dll
+D:\OOP\LapTrinhHDT\obj\Debug\net8.0\refint\LapTrinhHDT.dll
+D:\OOP\LapTrinhHDT\obj\Debug\net8.0\LapTrinhHDT.pdb
+D:\OOP\LapTrinhHDT\obj\Debug\net8.0\LapTrinhHDT.genruntimeconfig.cache
+D:\OOP\LapTrinhHDT\obj\Debug\net8.0\ref\LapTrinhHDT.dll

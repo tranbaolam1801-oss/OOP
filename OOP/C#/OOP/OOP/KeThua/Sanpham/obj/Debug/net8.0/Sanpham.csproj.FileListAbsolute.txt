@@ -1,0 +1,14 @@
+D:\OOP\KeThua\Sanpham\obj\Debug\net8.0\Sanpham.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\KeThua\Sanpham\obj\Debug\net8.0\Sanpham.AssemblyInfoInputs.cache
+D:\OOP\KeThua\Sanpham\obj\Debug\net8.0\Sanpham.AssemblyInfo.cs
+D:\OOP\KeThua\Sanpham\obj\Debug\net8.0\Sanpham.csproj.CoreCompileInputs.cache
+D:\OOP\KeThua\Sanpham\bin\Debug\net8.0\Sanpham.exe
+D:\OOP\KeThua\Sanpham\bin\Debug\net8.0\Sanpham.deps.json
+D:\OOP\KeThua\Sanpham\bin\Debug\net8.0\Sanpham.runtimeconfig.json
+D:\OOP\KeThua\Sanpham\bin\Debug\net8.0\Sanpham.dll
+D:\OOP\KeThua\Sanpham\bin\Debug\net8.0\Sanpham.pdb
+D:\OOP\KeThua\Sanpham\obj\Debug\net8.0\Sanpham.dll
+D:\OOP\KeThua\Sanpham\obj\Debug\net8.0\refint\Sanpham.dll
+D:\OOP\KeThua\Sanpham\obj\Debug\net8.0\Sanpham.pdb
+D:\OOP\KeThua\Sanpham\obj\Debug\net8.0\Sanpham.genruntimeconfig.cache
+D:\OOP\KeThua\Sanpham\obj\Debug\net8.0\ref\Sanpham.dll

@@ -1,0 +1,14 @@
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\bin\Debug\net9.0\ThiGK.exe
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\bin\Debug\net9.0\ThiGK.deps.json
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\bin\Debug\net9.0\ThiGK.runtimeconfig.json
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\bin\Debug\net9.0\ThiGK.dll
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\bin\Debug\net9.0\ThiGK.pdb
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\obj\Debug\net9.0\ThiGK.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\obj\Debug\net9.0\ThiGK.AssemblyInfoInputs.cache
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\obj\Debug\net9.0\ThiGK.AssemblyInfo.cs
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\obj\Debug\net9.0\ThiGK.csproj.CoreCompileInputs.cache
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\obj\Debug\net9.0\ThiGK.dll
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\obj\Debug\net9.0\refint\ThiGK.dll
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\obj\Debug\net9.0\ThiGK.pdb
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\obj\Debug\net9.0\ThiGK.genruntimeconfig.cache
+C:\C#\Thi Giữa Kì\ThiGK\ThiGK\obj\Debug\net9.0\ref\ThiGK.dll

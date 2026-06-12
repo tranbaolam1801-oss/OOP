@@ -1,0 +1,14 @@
+D:\OOP\LapTrinhHDT\DongGoi\VDU\obj\Debug\net8.0\VDU.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\LapTrinhHDT\DongGoi\VDU\obj\Debug\net8.0\VDU.AssemblyInfoInputs.cache
+D:\OOP\LapTrinhHDT\DongGoi\VDU\obj\Debug\net8.0\VDU.AssemblyInfo.cs
+D:\OOP\LapTrinhHDT\DongGoi\VDU\obj\Debug\net8.0\VDU.csproj.CoreCompileInputs.cache
+D:\OOP\LapTrinhHDT\DongGoi\VDU\bin\Debug\net8.0\VDU.exe
+D:\OOP\LapTrinhHDT\DongGoi\VDU\bin\Debug\net8.0\VDU.deps.json
+D:\OOP\LapTrinhHDT\DongGoi\VDU\bin\Debug\net8.0\VDU.runtimeconfig.json
+D:\OOP\LapTrinhHDT\DongGoi\VDU\bin\Debug\net8.0\VDU.dll
+D:\OOP\LapTrinhHDT\DongGoi\VDU\bin\Debug\net8.0\VDU.pdb
+D:\OOP\LapTrinhHDT\DongGoi\VDU\obj\Debug\net8.0\VDU.dll
+D:\OOP\LapTrinhHDT\DongGoi\VDU\obj\Debug\net8.0\refint\VDU.dll
+D:\OOP\LapTrinhHDT\DongGoi\VDU\obj\Debug\net8.0\VDU.pdb
+D:\OOP\LapTrinhHDT\DongGoi\VDU\obj\Debug\net8.0\VDU.genruntimeconfig.cache
+D:\OOP\LapTrinhHDT\DongGoi\VDU\obj\Debug\net8.0\ref\VDU.dll

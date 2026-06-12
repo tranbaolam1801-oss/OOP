@@ -1,0 +1,14 @@
+C:\OOP\BT\Bai24\obj\Debug\net9.0\Bai24.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\BT\Bai24\obj\Debug\net9.0\Bai24.AssemblyInfoInputs.cache
+C:\OOP\BT\Bai24\obj\Debug\net9.0\Bai24.AssemblyInfo.cs
+C:\OOP\BT\Bai24\obj\Debug\net9.0\Bai24.csproj.CoreCompileInputs.cache
+C:\OOP\BT\Bai24\bin\Debug\net9.0\Bai24.exe
+C:\OOP\BT\Bai24\bin\Debug\net9.0\Bai24.deps.json
+C:\OOP\BT\Bai24\bin\Debug\net9.0\Bai24.runtimeconfig.json
+C:\OOP\BT\Bai24\bin\Debug\net9.0\Bai24.dll
+C:\OOP\BT\Bai24\bin\Debug\net9.0\Bai24.pdb
+C:\OOP\BT\Bai24\obj\Debug\net9.0\Bai24.dll
+C:\OOP\BT\Bai24\obj\Debug\net9.0\refint\Bai24.dll
+C:\OOP\BT\Bai24\obj\Debug\net9.0\Bai24.pdb
+C:\OOP\BT\Bai24\obj\Debug\net9.0\Bai24.genruntimeconfig.cache
+C:\OOP\BT\Bai24\obj\Debug\net9.0\ref\Bai24.dll

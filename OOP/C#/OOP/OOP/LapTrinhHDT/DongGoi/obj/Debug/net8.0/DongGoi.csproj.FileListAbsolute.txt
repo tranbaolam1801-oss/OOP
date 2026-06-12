@@ -1,0 +1,4 @@
+D:\OOP\LapTrinhHDT\DongGoi\obj\Debug\net8.0\DongGoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\LapTrinhHDT\DongGoi\obj\Debug\net8.0\DongGoi.AssemblyInfoInputs.cache
+D:\OOP\LapTrinhHDT\DongGoi\obj\Debug\net8.0\DongGoi.AssemblyInfo.cs
+D:\OOP\LapTrinhHDT\DongGoi\obj\Debug\net8.0\DongGoi.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\obj\Debug\net9.0\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\obj\Debug\net9.0\Bai6.AssemblyInfoInputs.cache
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\obj\Debug\net9.0\Bai6.AssemblyInfo.cs
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\obj\Debug\net9.0\Bai6.csproj.CoreCompileInputs.cache
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\bin\Debug\net9.0\Bai6.exe
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\bin\Debug\net9.0\Bai6.deps.json
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\bin\Debug\net9.0\Bai6.runtimeconfig.json
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\bin\Debug\net9.0\Bai6.dll
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\bin\Debug\net9.0\Bai6.pdb
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\obj\Debug\net9.0\Bai6.dll
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\obj\Debug\net9.0\refint\Bai6.dll
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\obj\Debug\net9.0\Bai6.pdb
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\obj\Debug\net9.0\Bai6.genruntimeconfig.cache
+C:\OOP\Chuong2\BT\Tren_Lop\Bai6\obj\Debug\net9.0\ref\Bai6.dll

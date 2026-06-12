@@ -1,0 +1,14 @@
+D:\OOP\KeThua\HinhTron\bin\Debug\net8.0\HinhTron.exe
+D:\OOP\KeThua\HinhTron\bin\Debug\net8.0\HinhTron.deps.json
+D:\OOP\KeThua\HinhTron\bin\Debug\net8.0\HinhTron.runtimeconfig.json
+D:\OOP\KeThua\HinhTron\bin\Debug\net8.0\HinhTron.dll
+D:\OOP\KeThua\HinhTron\bin\Debug\net8.0\HinhTron.pdb
+D:\OOP\KeThua\HinhTron\obj\Debug\net8.0\HinhTron.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\KeThua\HinhTron\obj\Debug\net8.0\HinhTron.AssemblyInfoInputs.cache
+D:\OOP\KeThua\HinhTron\obj\Debug\net8.0\HinhTron.AssemblyInfo.cs
+D:\OOP\KeThua\HinhTron\obj\Debug\net8.0\HinhTron.csproj.CoreCompileInputs.cache
+D:\OOP\KeThua\HinhTron\obj\Debug\net8.0\HinhTron.dll
+D:\OOP\KeThua\HinhTron\obj\Debug\net8.0\refint\HinhTron.dll
+D:\OOP\KeThua\HinhTron\obj\Debug\net8.0\HinhTron.pdb
+D:\OOP\KeThua\HinhTron\obj\Debug\net8.0\HinhTron.genruntimeconfig.cache
+D:\OOP\KeThua\HinhTron\obj\Debug\net8.0\ref\HinhTron.dll

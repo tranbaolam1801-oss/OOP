@@ -1,0 +1,14 @@
+D:\OOP\LapTrinhHDT\BT5\obj\Debug\net8.0\BT5.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\LapTrinhHDT\BT5\obj\Debug\net8.0\BT5.AssemblyInfoInputs.cache
+D:\OOP\LapTrinhHDT\BT5\obj\Debug\net8.0\BT5.AssemblyInfo.cs
+D:\OOP\LapTrinhHDT\BT5\obj\Debug\net8.0\BT5.csproj.CoreCompileInputs.cache
+D:\OOP\LapTrinhHDT\BT5\bin\Debug\net8.0\BT5.exe
+D:\OOP\LapTrinhHDT\BT5\bin\Debug\net8.0\BT5.deps.json
+D:\OOP\LapTrinhHDT\BT5\bin\Debug\net8.0\BT5.runtimeconfig.json
+D:\OOP\LapTrinhHDT\BT5\bin\Debug\net8.0\BT5.dll
+D:\OOP\LapTrinhHDT\BT5\bin\Debug\net8.0\BT5.pdb
+D:\OOP\LapTrinhHDT\BT5\obj\Debug\net8.0\BT5.dll
+D:\OOP\LapTrinhHDT\BT5\obj\Debug\net8.0\refint\BT5.dll
+D:\OOP\LapTrinhHDT\BT5\obj\Debug\net8.0\BT5.pdb
+D:\OOP\LapTrinhHDT\BT5\obj\Debug\net8.0\BT5.genruntimeconfig.cache
+D:\OOP\LapTrinhHDT\BT5\obj\Debug\net8.0\ref\BT5.dll

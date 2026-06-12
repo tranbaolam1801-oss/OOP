@@ -1,0 +1,14 @@
+D:\C#\CK3\bin\Debug\net8.0\CK3.exe
+D:\C#\CK3\bin\Debug\net8.0\CK3.deps.json
+D:\C#\CK3\bin\Debug\net8.0\CK3.runtimeconfig.json
+D:\C#\CK3\bin\Debug\net8.0\CK3.dll
+D:\C#\CK3\bin\Debug\net8.0\CK3.pdb
+D:\C#\CK3\obj\Debug\net8.0\CK3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CK3\obj\Debug\net8.0\CK3.AssemblyInfoInputs.cache
+D:\C#\CK3\obj\Debug\net8.0\CK3.AssemblyInfo.cs
+D:\C#\CK3\obj\Debug\net8.0\CK3.csproj.CoreCompileInputs.cache
+D:\C#\CK3\obj\Debug\net8.0\CK3.dll
+D:\C#\CK3\obj\Debug\net8.0\refint\CK3.dll
+D:\C#\CK3\obj\Debug\net8.0\CK3.pdb
+D:\C#\CK3\obj\Debug\net8.0\CK3.genruntimeconfig.cache
+D:\C#\CK3\obj\Debug\net8.0\ref\CK3.dll

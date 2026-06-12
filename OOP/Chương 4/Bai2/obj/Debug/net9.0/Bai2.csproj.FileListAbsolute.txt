@@ -1,0 +1,14 @@
+C:\C#\Chương 4\Bai2\bin\Debug\net9.0\Bai2.exe
+C:\C#\Chương 4\Bai2\bin\Debug\net9.0\Bai2.deps.json
+C:\C#\Chương 4\Bai2\bin\Debug\net9.0\Bai2.runtimeconfig.json
+C:\C#\Chương 4\Bai2\bin\Debug\net9.0\Bai2.dll
+C:\C#\Chương 4\Bai2\bin\Debug\net9.0\Bai2.pdb
+C:\C#\Chương 4\Bai2\obj\Debug\net9.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Chương 4\Bai2\obj\Debug\net9.0\Bai2.AssemblyInfoInputs.cache
+C:\C#\Chương 4\Bai2\obj\Debug\net9.0\Bai2.AssemblyInfo.cs
+C:\C#\Chương 4\Bai2\obj\Debug\net9.0\Bai2.csproj.CoreCompileInputs.cache
+C:\C#\Chương 4\Bai2\obj\Debug\net9.0\Bai2.dll
+C:\C#\Chương 4\Bai2\obj\Debug\net9.0\refint\Bai2.dll
+C:\C#\Chương 4\Bai2\obj\Debug\net9.0\Bai2.pdb
+C:\C#\Chương 4\Bai2\obj\Debug\net9.0\Bai2.genruntimeconfig.cache
+C:\C#\Chương 4\Bai2\obj\Debug\net9.0\ref\Bai2.dll

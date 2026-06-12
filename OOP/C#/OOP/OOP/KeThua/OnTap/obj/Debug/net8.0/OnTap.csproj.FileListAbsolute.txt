@@ -1,0 +1,14 @@
+D:\OOP\KeThua\OnTap\bin\Debug\net8.0\OnTap.exe
+D:\OOP\KeThua\OnTap\bin\Debug\net8.0\OnTap.deps.json
+D:\OOP\KeThua\OnTap\bin\Debug\net8.0\OnTap.runtimeconfig.json
+D:\OOP\KeThua\OnTap\bin\Debug\net8.0\OnTap.dll
+D:\OOP\KeThua\OnTap\bin\Debug\net8.0\OnTap.pdb
+D:\OOP\KeThua\OnTap\obj\Debug\net8.0\OnTap.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\KeThua\OnTap\obj\Debug\net8.0\OnTap.AssemblyInfoInputs.cache
+D:\OOP\KeThua\OnTap\obj\Debug\net8.0\OnTap.AssemblyInfo.cs
+D:\OOP\KeThua\OnTap\obj\Debug\net8.0\OnTap.csproj.CoreCompileInputs.cache
+D:\OOP\KeThua\OnTap\obj\Debug\net8.0\OnTap.dll
+D:\OOP\KeThua\OnTap\obj\Debug\net8.0\refint\OnTap.dll
+D:\OOP\KeThua\OnTap\obj\Debug\net8.0\OnTap.pdb
+D:\OOP\KeThua\OnTap\obj\Debug\net8.0\OnTap.genruntimeconfig.cache
+D:\OOP\KeThua\OnTap\obj\Debug\net8.0\ref\OnTap.dll

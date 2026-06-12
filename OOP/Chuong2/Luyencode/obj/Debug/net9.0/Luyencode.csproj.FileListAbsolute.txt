@@ -1,0 +1,14 @@
+C:\OOP\Luyencode\bin\Debug\net9.0\Luyencode.exe
+C:\OOP\Luyencode\bin\Debug\net9.0\Luyencode.deps.json
+C:\OOP\Luyencode\bin\Debug\net9.0\Luyencode.runtimeconfig.json
+C:\OOP\Luyencode\bin\Debug\net9.0\Luyencode.dll
+C:\OOP\Luyencode\bin\Debug\net9.0\Luyencode.pdb
+C:\OOP\Luyencode\obj\Debug\net9.0\Luyencode.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\Luyencode\obj\Debug\net9.0\Luyencode.AssemblyInfoInputs.cache
+C:\OOP\Luyencode\obj\Debug\net9.0\Luyencode.AssemblyInfo.cs
+C:\OOP\Luyencode\obj\Debug\net9.0\Luyencode.csproj.CoreCompileInputs.cache
+C:\OOP\Luyencode\obj\Debug\net9.0\Luyencode.dll
+C:\OOP\Luyencode\obj\Debug\net9.0\refint\Luyencode.dll
+C:\OOP\Luyencode\obj\Debug\net9.0\Luyencode.pdb
+C:\OOP\Luyencode\obj\Debug\net9.0\Luyencode.genruntimeconfig.cache
+C:\OOP\Luyencode\obj\Debug\net9.0\ref\Luyencode.dll

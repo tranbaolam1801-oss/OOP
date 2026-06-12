@@ -1,0 +1,14 @@
+D:\OOP\KeThua\People\bin\Debug\net8.0\People.exe
+D:\OOP\KeThua\People\bin\Debug\net8.0\People.deps.json
+D:\OOP\KeThua\People\bin\Debug\net8.0\People.runtimeconfig.json
+D:\OOP\KeThua\People\bin\Debug\net8.0\People.dll
+D:\OOP\KeThua\People\bin\Debug\net8.0\People.pdb
+D:\OOP\KeThua\People\obj\Debug\net8.0\People.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\KeThua\People\obj\Debug\net8.0\People.AssemblyInfoInputs.cache
+D:\OOP\KeThua\People\obj\Debug\net8.0\People.AssemblyInfo.cs
+D:\OOP\KeThua\People\obj\Debug\net8.0\People.csproj.CoreCompileInputs.cache
+D:\OOP\KeThua\People\obj\Debug\net8.0\People.dll
+D:\OOP\KeThua\People\obj\Debug\net8.0\refint\People.dll
+D:\OOP\KeThua\People\obj\Debug\net8.0\People.pdb
+D:\OOP\KeThua\People\obj\Debug\net8.0\People.genruntimeconfig.cache
+D:\OOP\KeThua\People\obj\Debug\net8.0\ref\People.dll

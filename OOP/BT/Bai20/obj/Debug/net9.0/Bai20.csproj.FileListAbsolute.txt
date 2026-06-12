@@ -1,0 +1,14 @@
+C:\OOP\BT\Bai20\obj\Debug\net9.0\Bai20.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\BT\Bai20\obj\Debug\net9.0\Bai20.AssemblyInfoInputs.cache
+C:\OOP\BT\Bai20\obj\Debug\net9.0\Bai20.AssemblyInfo.cs
+C:\OOP\BT\Bai20\obj\Debug\net9.0\Bai20.csproj.CoreCompileInputs.cache
+C:\OOP\BT\Bai20\bin\Debug\net9.0\Bai20.exe
+C:\OOP\BT\Bai20\bin\Debug\net9.0\Bai20.deps.json
+C:\OOP\BT\Bai20\bin\Debug\net9.0\Bai20.runtimeconfig.json
+C:\OOP\BT\Bai20\bin\Debug\net9.0\Bai20.dll
+C:\OOP\BT\Bai20\bin\Debug\net9.0\Bai20.pdb
+C:\OOP\BT\Bai20\obj\Debug\net9.0\Bai20.dll
+C:\OOP\BT\Bai20\obj\Debug\net9.0\refint\Bai20.dll
+C:\OOP\BT\Bai20\obj\Debug\net9.0\Bai20.pdb
+C:\OOP\BT\Bai20\obj\Debug\net9.0\Bai20.genruntimeconfig.cache
+C:\OOP\BT\Bai20\obj\Debug\net9.0\ref\Bai20.dll

@@ -1,0 +1,14 @@
+D:\OOP\Ham\Baitap2\obj\Debug\net8.0\Baitap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Ham\Baitap2\obj\Debug\net8.0\Baitap2.AssemblyInfoInputs.cache
+D:\OOP\Ham\Baitap2\obj\Debug\net8.0\Baitap2.AssemblyInfo.cs
+D:\OOP\Ham\Baitap2\obj\Debug\net8.0\Baitap2.csproj.CoreCompileInputs.cache
+D:\OOP\Ham\Baitap2\bin\Debug\net8.0\Baitap2.exe
+D:\OOP\Ham\Baitap2\bin\Debug\net8.0\Baitap2.deps.json
+D:\OOP\Ham\Baitap2\bin\Debug\net8.0\Baitap2.runtimeconfig.json
+D:\OOP\Ham\Baitap2\bin\Debug\net8.0\Baitap2.dll
+D:\OOP\Ham\Baitap2\bin\Debug\net8.0\Baitap2.pdb
+D:\OOP\Ham\Baitap2\obj\Debug\net8.0\Baitap2.dll
+D:\OOP\Ham\Baitap2\obj\Debug\net8.0\refint\Baitap2.dll
+D:\OOP\Ham\Baitap2\obj\Debug\net8.0\Baitap2.pdb
+D:\OOP\Ham\Baitap2\obj\Debug\net8.0\Baitap2.genruntimeconfig.cache
+D:\OOP\Ham\Baitap2\obj\Debug\net8.0\ref\Baitap2.dll

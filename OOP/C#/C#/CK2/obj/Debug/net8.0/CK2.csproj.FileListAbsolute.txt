@@ -1,0 +1,14 @@
+D:\C#\CK2\obj\Debug\net8.0\CK2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CK2\obj\Debug\net8.0\CK2.AssemblyInfoInputs.cache
+D:\C#\CK2\obj\Debug\net8.0\CK2.AssemblyInfo.cs
+D:\C#\CK2\obj\Debug\net8.0\CK2.csproj.CoreCompileInputs.cache
+D:\C#\CK2\bin\Debug\net8.0\CK2.exe
+D:\C#\CK2\bin\Debug\net8.0\CK2.deps.json
+D:\C#\CK2\bin\Debug\net8.0\CK2.runtimeconfig.json
+D:\C#\CK2\bin\Debug\net8.0\CK2.dll
+D:\C#\CK2\bin\Debug\net8.0\CK2.pdb
+D:\C#\CK2\obj\Debug\net8.0\CK2.dll
+D:\C#\CK2\obj\Debug\net8.0\refint\CK2.dll
+D:\C#\CK2\obj\Debug\net8.0\CK2.pdb
+D:\C#\CK2\obj\Debug\net8.0\CK2.genruntimeconfig.cache
+D:\C#\CK2\obj\Debug\net8.0\ref\CK2.dll

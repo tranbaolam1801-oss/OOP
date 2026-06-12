@@ -1,0 +1,14 @@
+D:\OOP\BTChuong4\Bai1\bin\Debug\net8.0\Bai1.exe
+D:\OOP\BTChuong4\Bai1\bin\Debug\net8.0\Bai1.deps.json
+D:\OOP\BTChuong4\Bai1\bin\Debug\net8.0\Bai1.runtimeconfig.json
+D:\OOP\BTChuong4\Bai1\bin\Debug\net8.0\Bai1.dll
+D:\OOP\BTChuong4\Bai1\bin\Debug\net8.0\Bai1.pdb
+D:\OOP\BTChuong4\Bai1\obj\Debug\net8.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BTChuong4\Bai1\obj\Debug\net8.0\Bai1.AssemblyInfoInputs.cache
+D:\OOP\BTChuong4\Bai1\obj\Debug\net8.0\Bai1.AssemblyInfo.cs
+D:\OOP\BTChuong4\Bai1\obj\Debug\net8.0\Bai1.csproj.CoreCompileInputs.cache
+D:\OOP\BTChuong4\Bai1\obj\Debug\net8.0\Bai1.dll
+D:\OOP\BTChuong4\Bai1\obj\Debug\net8.0\refint\Bai1.dll
+D:\OOP\BTChuong4\Bai1\obj\Debug\net8.0\Bai1.pdb
+D:\OOP\BTChuong4\Bai1\obj\Debug\net8.0\Bai1.genruntimeconfig.cache
+D:\OOP\BTChuong4\Bai1\obj\Debug\net8.0\ref\Bai1.dll

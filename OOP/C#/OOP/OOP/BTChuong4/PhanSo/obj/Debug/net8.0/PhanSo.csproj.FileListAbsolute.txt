@@ -1,0 +1,14 @@
+D:\OOP\BTChuong4\PhanSo\bin\Debug\net8.0\PhanSo.exe
+D:\OOP\BTChuong4\PhanSo\bin\Debug\net8.0\PhanSo.deps.json
+D:\OOP\BTChuong4\PhanSo\bin\Debug\net8.0\PhanSo.runtimeconfig.json
+D:\OOP\BTChuong4\PhanSo\bin\Debug\net8.0\PhanSo.dll
+D:\OOP\BTChuong4\PhanSo\bin\Debug\net8.0\PhanSo.pdb
+D:\OOP\BTChuong4\PhanSo\obj\Debug\net8.0\PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BTChuong4\PhanSo\obj\Debug\net8.0\PhanSo.AssemblyInfoInputs.cache
+D:\OOP\BTChuong4\PhanSo\obj\Debug\net8.0\PhanSo.AssemblyInfo.cs
+D:\OOP\BTChuong4\PhanSo\obj\Debug\net8.0\PhanSo.csproj.CoreCompileInputs.cache
+D:\OOP\BTChuong4\PhanSo\obj\Debug\net8.0\PhanSo.dll
+D:\OOP\BTChuong4\PhanSo\obj\Debug\net8.0\refint\PhanSo.dll
+D:\OOP\BTChuong4\PhanSo\obj\Debug\net8.0\PhanSo.pdb
+D:\OOP\BTChuong4\PhanSo\obj\Debug\net8.0\PhanSo.genruntimeconfig.cache
+D:\OOP\BTChuong4\PhanSo\obj\Debug\net8.0\ref\PhanSo.dll

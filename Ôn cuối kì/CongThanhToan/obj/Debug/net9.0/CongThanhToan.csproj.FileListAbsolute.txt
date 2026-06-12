@@ -1,0 +1,14 @@
+C:\C#\Ôn cuối kì\CongThanhToan\obj\Debug\net9.0\CongThanhToan.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ôn cuối kì\CongThanhToan\obj\Debug\net9.0\CongThanhToan.AssemblyInfoInputs.cache
+C:\C#\Ôn cuối kì\CongThanhToan\obj\Debug\net9.0\CongThanhToan.AssemblyInfo.cs
+C:\C#\Ôn cuối kì\CongThanhToan\obj\Debug\net9.0\CongThanhToan.csproj.CoreCompileInputs.cache
+C:\C#\Ôn cuối kì\CongThanhToan\bin\Debug\net9.0\CongThanhToan.exe
+C:\C#\Ôn cuối kì\CongThanhToan\bin\Debug\net9.0\CongThanhToan.deps.json
+C:\C#\Ôn cuối kì\CongThanhToan\bin\Debug\net9.0\CongThanhToan.runtimeconfig.json
+C:\C#\Ôn cuối kì\CongThanhToan\bin\Debug\net9.0\CongThanhToan.dll
+C:\C#\Ôn cuối kì\CongThanhToan\bin\Debug\net9.0\CongThanhToan.pdb
+C:\C#\Ôn cuối kì\CongThanhToan\obj\Debug\net9.0\CongThanhToan.dll
+C:\C#\Ôn cuối kì\CongThanhToan\obj\Debug\net9.0\refint\CongThanhToan.dll
+C:\C#\Ôn cuối kì\CongThanhToan\obj\Debug\net9.0\CongThanhToan.pdb
+C:\C#\Ôn cuối kì\CongThanhToan\obj\Debug\net9.0\CongThanhToan.genruntimeconfig.cache
+C:\C#\Ôn cuối kì\CongThanhToan\obj\Debug\net9.0\ref\CongThanhToan.dll

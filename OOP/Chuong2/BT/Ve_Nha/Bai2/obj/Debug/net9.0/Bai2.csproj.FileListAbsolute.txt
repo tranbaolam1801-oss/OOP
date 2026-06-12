@@ -1,0 +1,14 @@
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\obj\Debug\net9.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\obj\Debug\net9.0\Bai2.AssemblyInfoInputs.cache
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\obj\Debug\net9.0\Bai2.AssemblyInfo.cs
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\obj\Debug\net9.0\Bai2.csproj.CoreCompileInputs.cache
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\bin\Debug\net9.0\Bai2.exe
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\bin\Debug\net9.0\Bai2.deps.json
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\bin\Debug\net9.0\Bai2.runtimeconfig.json
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\bin\Debug\net9.0\Bai2.dll
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\bin\Debug\net9.0\Bai2.pdb
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\obj\Debug\net9.0\Bai2.dll
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\obj\Debug\net9.0\refint\Bai2.dll
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\obj\Debug\net9.0\Bai2.pdb
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\obj\Debug\net9.0\Bai2.genruntimeconfig.cache
+C:\OOP\Chuong2\BT\Ve_Nha\Bai2\obj\Debug\net9.0\ref\Bai2.dll

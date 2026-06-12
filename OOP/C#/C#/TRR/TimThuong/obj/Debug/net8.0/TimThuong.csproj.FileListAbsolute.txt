@@ -1,0 +1,14 @@
+D:\C#\TRR\TimThuong\bin\Debug\net8.0\TimThuong.exe
+D:\C#\TRR\TimThuong\bin\Debug\net8.0\TimThuong.deps.json
+D:\C#\TRR\TimThuong\bin\Debug\net8.0\TimThuong.runtimeconfig.json
+D:\C#\TRR\TimThuong\bin\Debug\net8.0\TimThuong.dll
+D:\C#\TRR\TimThuong\bin\Debug\net8.0\TimThuong.pdb
+D:\C#\TRR\TimThuong\obj\Debug\net8.0\TimThuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TRR\TimThuong\obj\Debug\net8.0\TimThuong.AssemblyInfoInputs.cache
+D:\C#\TRR\TimThuong\obj\Debug\net8.0\TimThuong.AssemblyInfo.cs
+D:\C#\TRR\TimThuong\obj\Debug\net8.0\TimThuong.csproj.CoreCompileInputs.cache
+D:\C#\TRR\TimThuong\obj\Debug\net8.0\TimThuong.dll
+D:\C#\TRR\TimThuong\obj\Debug\net8.0\refint\TimThuong.dll
+D:\C#\TRR\TimThuong\obj\Debug\net8.0\TimThuong.pdb
+D:\C#\TRR\TimThuong\obj\Debug\net8.0\TimThuong.genruntimeconfig.cache
+D:\C#\TRR\TimThuong\obj\Debug\net8.0\ref\TimThuong.dll

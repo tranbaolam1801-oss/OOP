@@ -1,0 +1,14 @@
+C:\OOP\Ham\bin\Debug\net9.0\Ham.exe
+C:\OOP\Ham\bin\Debug\net9.0\Ham.deps.json
+C:\OOP\Ham\bin\Debug\net9.0\Ham.runtimeconfig.json
+C:\OOP\Ham\bin\Debug\net9.0\Ham.dll
+C:\OOP\Ham\bin\Debug\net9.0\Ham.pdb
+C:\OOP\Ham\obj\Debug\net9.0\Ham.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\Ham\obj\Debug\net9.0\Ham.AssemblyInfoInputs.cache
+C:\OOP\Ham\obj\Debug\net9.0\Ham.AssemblyInfo.cs
+C:\OOP\Ham\obj\Debug\net9.0\Ham.csproj.CoreCompileInputs.cache
+C:\OOP\Ham\obj\Debug\net9.0\Ham.dll
+C:\OOP\Ham\obj\Debug\net9.0\refint\Ham.dll
+C:\OOP\Ham\obj\Debug\net9.0\Ham.pdb
+C:\OOP\Ham\obj\Debug\net9.0\Ham.genruntimeconfig.cache
+C:\OOP\Ham\obj\Debug\net9.0\ref\Ham.dll

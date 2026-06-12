@@ -1,0 +1,14 @@
+D:\OOP\MangHaiChieu\bin\Debug\net8.0\MangHaiChieu.exe
+D:\OOP\MangHaiChieu\bin\Debug\net8.0\MangHaiChieu.deps.json
+D:\OOP\MangHaiChieu\bin\Debug\net8.0\MangHaiChieu.runtimeconfig.json
+D:\OOP\MangHaiChieu\bin\Debug\net8.0\MangHaiChieu.dll
+D:\OOP\MangHaiChieu\bin\Debug\net8.0\MangHaiChieu.pdb
+D:\OOP\MangHaiChieu\obj\Debug\net8.0\MangHaiChieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\MangHaiChieu\obj\Debug\net8.0\MangHaiChieu.AssemblyInfoInputs.cache
+D:\OOP\MangHaiChieu\obj\Debug\net8.0\MangHaiChieu.AssemblyInfo.cs
+D:\OOP\MangHaiChieu\obj\Debug\net8.0\MangHaiChieu.csproj.CoreCompileInputs.cache
+D:\OOP\MangHaiChieu\obj\Debug\net8.0\MangHaiChieu.dll
+D:\OOP\MangHaiChieu\obj\Debug\net8.0\refint\MangHaiChieu.dll
+D:\OOP\MangHaiChieu\obj\Debug\net8.0\MangHaiChieu.pdb
+D:\OOP\MangHaiChieu\obj\Debug\net8.0\MangHaiChieu.genruntimeconfig.cache
+D:\OOP\MangHaiChieu\obj\Debug\net8.0\ref\MangHaiChieu.dll

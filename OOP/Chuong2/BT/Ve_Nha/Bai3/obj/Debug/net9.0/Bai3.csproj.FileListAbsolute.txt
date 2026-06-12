@@ -1,0 +1,14 @@
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\obj\Debug\net9.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\obj\Debug\net9.0\Bai3.AssemblyInfoInputs.cache
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\obj\Debug\net9.0\Bai3.AssemblyInfo.cs
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\obj\Debug\net9.0\Bai3.csproj.CoreCompileInputs.cache
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\bin\Debug\net9.0\Bai3.exe
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\bin\Debug\net9.0\Bai3.deps.json
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\bin\Debug\net9.0\Bai3.runtimeconfig.json
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\bin\Debug\net9.0\Bai3.dll
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\bin\Debug\net9.0\Bai3.pdb
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\obj\Debug\net9.0\Bai3.dll
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\obj\Debug\net9.0\refint\Bai3.dll
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\obj\Debug\net9.0\Bai3.pdb
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\obj\Debug\net9.0\Bai3.genruntimeconfig.cache
+C:\OOP\Chuong2\BT\Ve_Nha\Bai3\obj\Debug\net9.0\ref\Bai3.dll

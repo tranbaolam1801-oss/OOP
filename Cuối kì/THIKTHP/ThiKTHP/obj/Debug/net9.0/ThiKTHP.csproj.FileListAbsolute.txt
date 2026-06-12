@@ -1,0 +1,14 @@
+C:\C#\THIKTHP\ThiKTHP\bin\Debug\net9.0\ThiKTHP.exe
+C:\C#\THIKTHP\ThiKTHP\bin\Debug\net9.0\ThiKTHP.deps.json
+C:\C#\THIKTHP\ThiKTHP\bin\Debug\net9.0\ThiKTHP.runtimeconfig.json
+C:\C#\THIKTHP\ThiKTHP\bin\Debug\net9.0\ThiKTHP.dll
+C:\C#\THIKTHP\ThiKTHP\bin\Debug\net9.0\ThiKTHP.pdb
+C:\C#\THIKTHP\ThiKTHP\obj\Debug\net9.0\ThiKTHP.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\THIKTHP\ThiKTHP\obj\Debug\net9.0\ThiKTHP.AssemblyInfoInputs.cache
+C:\C#\THIKTHP\ThiKTHP\obj\Debug\net9.0\ThiKTHP.AssemblyInfo.cs
+C:\C#\THIKTHP\ThiKTHP\obj\Debug\net9.0\ThiKTHP.csproj.CoreCompileInputs.cache
+C:\C#\THIKTHP\ThiKTHP\obj\Debug\net9.0\ThiKTHP.dll
+C:\C#\THIKTHP\ThiKTHP\obj\Debug\net9.0\refint\ThiKTHP.dll
+C:\C#\THIKTHP\ThiKTHP\obj\Debug\net9.0\ThiKTHP.pdb
+C:\C#\THIKTHP\ThiKTHP\obj\Debug\net9.0\ThiKTHP.genruntimeconfig.cache
+C:\C#\THIKTHP\ThiKTHP\obj\Debug\net9.0\ref\ThiKTHP.dll

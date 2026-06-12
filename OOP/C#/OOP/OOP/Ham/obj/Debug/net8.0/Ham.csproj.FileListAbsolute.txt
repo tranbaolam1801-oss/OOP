@@ -1,0 +1,4 @@
+D:\OOP\Ham\obj\Debug\net8.0\Ham.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Ham\obj\Debug\net8.0\Ham.AssemblyInfoInputs.cache
+D:\OOP\Ham\obj\Debug\net8.0\Ham.AssemblyInfo.cs
+D:\OOP\Ham\obj\Debug\net8.0\Ham.csproj.CoreCompileInputs.cache

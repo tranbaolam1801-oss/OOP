@@ -1,0 +1,14 @@
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\bin\Debug\net9.0\Bai4.exe
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\bin\Debug\net9.0\Bai4.deps.json
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\bin\Debug\net9.0\Bai4.runtimeconfig.json
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\bin\Debug\net9.0\Bai4.dll
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\bin\Debug\net9.0\Bai4.pdb
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\obj\Debug\net9.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\obj\Debug\net9.0\Bai4.AssemblyInfoInputs.cache
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\obj\Debug\net9.0\Bai4.AssemblyInfo.cs
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\obj\Debug\net9.0\Bai4.csproj.CoreCompileInputs.cache
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\obj\Debug\net9.0\Bai4.dll
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\obj\Debug\net9.0\refint\Bai4.dll
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\obj\Debug\net9.0\Bai4.pdb
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\obj\Debug\net9.0\Bai4.genruntimeconfig.cache
+C:\OOP\Chuong2\BT\Tren_Lop\Bai4\obj\Debug\net9.0\ref\Bai4.dll

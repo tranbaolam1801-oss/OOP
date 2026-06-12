@@ -1,0 +1,14 @@
+D:\OOP\BTChuong4\Bai2\obj\Debug\net8.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BTChuong4\Bai2\obj\Debug\net8.0\Bai2.AssemblyInfoInputs.cache
+D:\OOP\BTChuong4\Bai2\obj\Debug\net8.0\Bai2.AssemblyInfo.cs
+D:\OOP\BTChuong4\Bai2\obj\Debug\net8.0\Bai2.csproj.CoreCompileInputs.cache
+D:\OOP\BTChuong4\Bai2\bin\Debug\net8.0\Bai2.exe
+D:\OOP\BTChuong4\Bai2\bin\Debug\net8.0\Bai2.deps.json
+D:\OOP\BTChuong4\Bai2\bin\Debug\net8.0\Bai2.runtimeconfig.json
+D:\OOP\BTChuong4\Bai2\bin\Debug\net8.0\Bai2.dll
+D:\OOP\BTChuong4\Bai2\bin\Debug\net8.0\Bai2.pdb
+D:\OOP\BTChuong4\Bai2\obj\Debug\net8.0\Bai2.dll
+D:\OOP\BTChuong4\Bai2\obj\Debug\net8.0\refint\Bai2.dll
+D:\OOP\BTChuong4\Bai2\obj\Debug\net8.0\Bai2.pdb
+D:\OOP\BTChuong4\Bai2\obj\Debug\net8.0\Bai2.genruntimeconfig.cache
+D:\OOP\BTChuong4\Bai2\obj\Debug\net8.0\ref\Bai2.dll

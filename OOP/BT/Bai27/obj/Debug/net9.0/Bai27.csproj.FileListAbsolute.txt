@@ -1,0 +1,14 @@
+C:\OOP\BT\Bai27\obj\Debug\net9.0\Bai27.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\BT\Bai27\obj\Debug\net9.0\Bai27.AssemblyInfoInputs.cache
+C:\OOP\BT\Bai27\obj\Debug\net9.0\Bai27.AssemblyInfo.cs
+C:\OOP\BT\Bai27\obj\Debug\net9.0\Bai27.csproj.CoreCompileInputs.cache
+C:\OOP\BT\Bai27\bin\Debug\net9.0\Bai27.exe
+C:\OOP\BT\Bai27\bin\Debug\net9.0\Bai27.deps.json
+C:\OOP\BT\Bai27\bin\Debug\net9.0\Bai27.runtimeconfig.json
+C:\OOP\BT\Bai27\bin\Debug\net9.0\Bai27.dll
+C:\OOP\BT\Bai27\bin\Debug\net9.0\Bai27.pdb
+C:\OOP\BT\Bai27\obj\Debug\net9.0\Bai27.dll
+C:\OOP\BT\Bai27\obj\Debug\net9.0\refint\Bai27.dll
+C:\OOP\BT\Bai27\obj\Debug\net9.0\Bai27.pdb
+C:\OOP\BT\Bai27\obj\Debug\net9.0\Bai27.genruntimeconfig.cache
+C:\OOP\BT\Bai27\obj\Debug\net9.0\ref\Bai27.dll

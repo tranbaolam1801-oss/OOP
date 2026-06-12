@@ -1,0 +1,14 @@
+D:\OOP\BTChuong4\Doanhnghiep\obj\Debug\net8.0\Doanhnghiep.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\BTChuong4\Doanhnghiep\obj\Debug\net8.0\Doanhnghiep.AssemblyInfoInputs.cache
+D:\OOP\BTChuong4\Doanhnghiep\obj\Debug\net8.0\Doanhnghiep.AssemblyInfo.cs
+D:\OOP\BTChuong4\Doanhnghiep\obj\Debug\net8.0\Doanhnghiep.csproj.CoreCompileInputs.cache
+D:\OOP\BTChuong4\Doanhnghiep\bin\Debug\net8.0\Doanhnghiep.exe
+D:\OOP\BTChuong4\Doanhnghiep\bin\Debug\net8.0\Doanhnghiep.deps.json
+D:\OOP\BTChuong4\Doanhnghiep\bin\Debug\net8.0\Doanhnghiep.runtimeconfig.json
+D:\OOP\BTChuong4\Doanhnghiep\bin\Debug\net8.0\Doanhnghiep.dll
+D:\OOP\BTChuong4\Doanhnghiep\bin\Debug\net8.0\Doanhnghiep.pdb
+D:\OOP\BTChuong4\Doanhnghiep\obj\Debug\net8.0\Doanhnghiep.dll
+D:\OOP\BTChuong4\Doanhnghiep\obj\Debug\net8.0\refint\Doanhnghiep.dll
+D:\OOP\BTChuong4\Doanhnghiep\obj\Debug\net8.0\Doanhnghiep.pdb
+D:\OOP\BTChuong4\Doanhnghiep\obj\Debug\net8.0\Doanhnghiep.genruntimeconfig.cache
+D:\OOP\BTChuong4\Doanhnghiep\obj\Debug\net8.0\ref\Doanhnghiep.dll

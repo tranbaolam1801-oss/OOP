@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EiEuLZNL3pI=",
+  "dgSpecHash": "NuLIyusXZv4=",
   "success": true,
-  "projectFilePath": "C:\\C#\\Thi Giữa Kì\\ThiGK\\ThiGK\\ThiGK.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Kỳ 2 Năm 2\\Lập trình hướng đối tượng (C#)\\GK 50K\\ThiGK\\ThiGK\\ThiGK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tranb\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\tranb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\tranb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\tranb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.14\\microsoft.netcore.app.host.win-x64.9.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BZKdwmw7B2A=",
+  "dgSpecHash": "0isk7eWTMNE=",
   "success": true,
-  "projectFilePath": "D:\\OOP\\Bai3\\Bai3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Kỳ 2 Năm 2\\Lập trình hướng đối tượng (C#)\\OOP\\C#\\OOP\\OOP\\Bai3\\Bai3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tranb\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\tranb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\tranb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\tranb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

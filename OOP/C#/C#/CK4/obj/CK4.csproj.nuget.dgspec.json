@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\CK4\\CK4.csproj": {}
+    "C:\\Kỳ 2 Năm 2\\Lập trình hướng đối tượng (C#)\\OOP\\C#\\C#\\CK4\\CK4.csproj": {}
   },
   "projects": {
-    "D:\\C#\\CK4\\CK4.csproj": {
+    "C:\\Kỳ 2 Năm 2\\Lập trình hướng đối tượng (C#)\\OOP\\C#\\C#\\CK4\\CK4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\CK4\\CK4.csproj",
+        "projectUniqueName": "C:\\Kỳ 2 Năm 2\\Lập trình hướng đối tượng (C#)\\OOP\\C#\\C#\\CK4\\CK4.csproj",
         "projectName": "CK4",
-        "projectPath": "D:\\C#\\CK4\\CK4.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\CK4\\obj\\",
+        "projectPath": "C:\\Kỳ 2 Năm 2\\Lập trình hướng đối tượng (C#)\\OOP\\C#\\C#\\CK4\\CK4.csproj",
+        "packagesPath": "C:\\Users\\tranb\\.nuget\\packages\\",
+        "outputPath": "C:\\Kỳ 2 Năm 2\\Lập trình hướng đối tượng (C#)\\OOP\\C#\\C#\\CK4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\tranb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +39,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +56,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
